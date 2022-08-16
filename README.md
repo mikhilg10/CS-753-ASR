@@ -2,4 +2,4 @@
 
 T1 Marathi ASR
 
-T2 Kannada Multilingual ASR
+T2 Kannada Multilingual trained ASR
